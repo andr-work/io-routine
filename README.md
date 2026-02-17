@@ -1,5 +1,9 @@
 # io-routine
 
-IO Routine is an input-output learning routine system for humans and AI agents. 
+## Overview
 
-Provides a web app to manage and explore routines, along with a REST API and MCP interface.
+io-routine helps you manage input-output routines for language learning, programming, and more.
+
+Define your routine in the CLI or web GUI, then start it.
+
+io-routine can manage your routines, search your inputs, and support your outputs.
